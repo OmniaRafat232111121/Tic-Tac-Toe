@@ -1,0 +1,10 @@
+.search {
+ display:flex;
+ align-items: center;
+ justify-content: center;
+}
+.input__wrapper{
+    margin:20px;
+    text-align: center;
+}
+.input_wrapper 

@@ -1,0 +1,26 @@
+.title h1{
+    padding:0;
+    margin: 0;
+}
+.input__wrapper{
+    margin:20px;
+    text-align: center;
+}
+.input__wrapper input{
+    border:3px solid red;
+    padding:8px 15px;
+    border-radius: 5px;
+    font-size: 18px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.input__wrapper input:focus{
+    outline: none;
+}
+
+.body__item{
+    text-align: left !important;
+    border:1px soid lightgray;
+}
